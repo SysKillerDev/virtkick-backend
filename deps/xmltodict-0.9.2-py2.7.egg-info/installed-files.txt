@@ -1,0 +1,7 @@
+../xmltodict.py
+../xmltodict.pyc
+./
+dependency_links.txt
+SOURCES.txt
+PKG-INFO
+top_level.txt
